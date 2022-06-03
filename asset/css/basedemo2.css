@@ -1,0 +1,35 @@
+html{
+    font-size: 62.5%;
+    line-height: 0px;
+    font-family: 'Lexend', sans-serif;
+}
+
+:root{
+    --white-color: #fff;
+    --black-color: #000;
+    --text-color: rgb(77, 70, 70);
+    --primary-color: #0568FD;
+    --pink-color: #FAE6E9;
+}
+
+.row{
+    margin: auto;
+}
+
+.col-1{
+    width: 100%;
+}
+
+.col-2{
+    float: left;
+    width: 50%;
+}
+
+.col-3{
+    float: left;
+    width: 33.333333%;
+}
+
+.col-5{
+    width: 20%;
+}
