@@ -405,3 +405,21 @@
 .introduce__icon:hover{
     color: var(--primary-color);
 }
+
+
+/* Contact2 section */
+.contact2-section{
+    background-image: url(https://www.datocms-assets.com/38511/1642478031-landing-page-asset_footer-image.png?auto=format&dpr=0.5&w=6001);
+    width: 100%;
+    height: 650px;
+}
+
+.contact2-box{
+    width: 1208px;
+    margin: auto;
+    margin: 100px 0 100px 0;
+}
+
+.contact2__heading{
+    font-size: 6.4rem;
+}
